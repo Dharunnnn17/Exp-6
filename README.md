@@ -1,33 +1,57 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
+## NAME : DHARUN ARULSELVAN
+## REG NO: 212224220024
 
 # AIM:
-To develop a project Student Information System using star UML tools.
 
-# PROBLEM STATEMENT:
-A Student information system (SIS) is a software application for educational establishments to manage student data. Student information systems provide capabilities for entering student test and other assessment scores, building student schedules, tracking student attendance, and managing many other student-related data needs in a school, college or university.
+To draw the UML diagram for Student Online Exam Registration System.
+# SRS (Procedure):
 
-## DEVELOPED BY : DHARUN ARULSELVAN
-## REGISTER NO : 21222224220024
+List of Programs:
 
-# UML DIAGRAMS:
+i) Usecase Diagram
 
-## USE CASE:
-![UseCaseDiagram for Exam Registration systen](https://github.com/user-attachments/assets/632b9f67-a2e9-46bd-92eb-82ab9330df87)
+ii)Class Diagram
 
-## CLASS DIAGRAM:
-![Class Diagram for Exam registration system](https://github.com/user-attachments/assets/d5d7950d-a227-4842-9c00-0754ca5d6979)
+iii)Activity Diagram
 
-## SEQUENCE DIAGRAM:
-![SequenceDiagram for exam registration system](https://github.com/user-attachments/assets/22421c83-869c-4c53-bff5-9ad55a608ae6)
+iv)Communication Diagram
 
-## COMMUNICATION DIAGRAM:
-![CommunicationDiagram for Exam Registration system](https://github.com/user-attachments/assets/384f9dc8-933f-49bf-8d9b-3cd0d73f5557)
+v)Package Diagram
 
-## ACTIVITY DIAGRAM:
-![ActivityDiagram For Exam Registration system](https://github.com/user-attachments/assets/bca065e8-3daf-4bb2-ab9e-e63af5257df9)
+vi)Sequence Diagram
 
-## PACKAGE DIAGRAM:
-![CommunicationDiagram for Exam Registration system](https://github.com/user-attachments/assets/53c6373d-d8fd-4dbd-a274-a2d720a94f5f)
+# DIAGRAMS:
+
+![UseCaseDiagram1](https://github.com/user-attachments/assets/50e90d9d-adb9-45ae-b5fa-fc6e57f73e0a)
+
+
+![ClassDiagram1](https://github.com/user-attachments/assets/63119cd6-ded9-4274-8a90-f11624a52978)
+
+
+![ActivityDiagram1](https://github.com/user-attachments/assets/b105ac7c-05c8-4003-a1f6-baaa5ec8a26f)
+
+
+![CommunicationDiagram1](https://github.com/user-attachments/assets/ed04ab20-236a-4cb6-b813-a029d57e257c)
+
+
+![PackageDiagram1](https://github.com/user-attachments/assets/b5b7e187-bdf7-49f8-a3b8-d54e94964757)
+
+
+![SequenceDiagram1](https://github.com/user-attachments/assets/47ebed13-65e7-460d-9e5c-63c0e91353f6)
+
+
+
+
+
+
+
+
+
+
+
+
 
 # RESULT:
-Thus the Student information system project was executed and the output was verified.
+
+Thus the program is verified succeccfully.
